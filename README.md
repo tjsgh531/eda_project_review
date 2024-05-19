@@ -1,1 +1,9 @@
-"# eda_project_review" 
+# 2023 삼성전자 사업보고서 EDA REVIEW
+
+## 1. 주요제품및 서비스
+
+부문별 매출액 데이터를 전처리 후 막대그래프와 원 그래프로 시각화
+
+![alt text](img/부문별매출액.png)
+
+![alt text](img/부문별매출액(원).png)
